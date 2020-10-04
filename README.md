@@ -1,5 +1,5 @@
 # KPMG-virtual-internship
-My submission at insideSherpa to the KPMG virtual internship
+My submission at insideSherpa (Forage now) to the KPMG virtual internship
 
 
 Link to my LinkedIn : https://www.linkedin.com/in/imenekolli/

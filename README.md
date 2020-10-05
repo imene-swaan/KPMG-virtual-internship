@@ -1,6 +1,7 @@
 # KPMG-virtual-internship
-My submission at insideSherpa (Forage now) to the KPMG virtual internship
+My submission at insideSherpa (theForage now) to the KPMG virtual internship
 
+![Certificate](https://github.com/imene-swaan/KPMG-virtual-internship/blob/master/KPMG.png)
 
 Link to my LinkedIn : https://www.linkedin.com/in/imenekolli/
 
